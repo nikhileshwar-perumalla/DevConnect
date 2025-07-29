@@ -199,12 +199,7 @@ NODE_ENV=production
 
 
 
-## 🙏 Acknowledgments
 
-- React team for the amazing framework
-- Tailwind CSS for the utility-first CSS framework
-- MongoDB team for the excellent database
-- All the open-source contributors who made this project possible
 
 ---
 
