@@ -62,7 +62,7 @@ const LandingPage = () => {
                 <>
                   <Link to="/register" className="btn-primary text-lg px-8 py-4">
                     Join DevConnect
-                    <ArrowRight className="ml-2 h-5 w-5" />
+                    
                   </Link>
                   <Link to="/login" className="btn-outline text-lg px-8 py-4">
                     Sign In
