@@ -126,9 +126,7 @@ devconnect/
    npm run client
    ```
 
-6. **Access the Application**
-   - Frontend: http://localhost:3000
-   - Backend API: http://localhost:5000
+
 
 ## 📱 API Endpoints
 
